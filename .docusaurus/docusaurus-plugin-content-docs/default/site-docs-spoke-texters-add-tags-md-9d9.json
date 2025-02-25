@@ -1,0 +1,23 @@
+{
+  "id": "spoke-texters/add-tags",
+  "title": "Add Tags To A Conversation",
+  "description": "--------------------------",
+  "source": "@site/docs/spoke-texters/add-tags.md",
+  "sourceDirName": "spoke-texters",
+  "slug": "/spoke-texters/add-tags",
+  "permalink": "/es/docs/spoke-texters/add-tags",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spoke Texters",
+    "permalink": "/es/docs/category/spoke-texters"
+  },
+  "next": {
+    "title": "Spoke Admin",
+    "permalink": "/es/docs/category/spoke-admin"
+  }
+}

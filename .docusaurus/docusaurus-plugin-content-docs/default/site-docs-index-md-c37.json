@@ -1,0 +1,22 @@
+{
+  "id": "index",
+  "title": "Spoke Texting Documentation",
+  "description": "This is the home of Spoke documentation for both Spoke texters and administrators",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/es/docs/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Spoke Texters",
+    "permalink": "/es/docs/category/spoke-texters"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "spoke-admin/index",
+  "title": "Index",
+  "description": "- 10DLC Glossary",
+  "source": "@site/docs/spoke-admin/index.md",
+  "sourceDirName": "spoke-admin",
+  "slug": "/spoke-admin/",
+  "permalink": "/es/docs/spoke-admin/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spoke Admin",
+    "permalink": "/es/docs/category/spoke-admin"
+  },
+  "next": {
+    "title": "10DLC Compliance",
+    "permalink": "/es/docs/spoke-admin/10dlc-compliance"
+  }
+}
