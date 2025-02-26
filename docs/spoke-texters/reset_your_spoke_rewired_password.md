@@ -18,7 +18,7 @@ troubleshoot:
 If you have not received the password reset link, look to
 see whether you may have registered on Spoke using a different
 email address. This is a common error. Search for
-"[[email protected]](/cdn-cgi/l/email-protection)" in all of your email addresses to
+"support@withtheranks.com" in all of your email addresses to
 identify the email with an active spoke account.
 
 If you find messages from Spoke Rewired in another email
@@ -30,6 +30,6 @@ in the top right hand corner and then clicking on your name.
 This will bring you to the account settings page.
 
 If you have further questions or difficulties updating your
-account info, email [[email protected]](/cdn-cgi/l/email-protection) for further
+account info, email [support@withtheranks.com](mailto:support@withtheranks.com) for further
 assistance. In your email, please indicate the URL of the Spoke
 page you are attempting to access.
