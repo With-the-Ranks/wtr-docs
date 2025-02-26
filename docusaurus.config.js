@@ -65,6 +65,16 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        // The application ID provided by Algolia
+        appId: '61OO1C2RFJ',
+  
+        // Public API key: it is safe to commit it
+        apiKey: 'c6dd86df64e87f55c3bc1031e02ab3c1',
+  
+        indexName: 'wtr-pages',
+  
+      },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
@@ -99,7 +109,7 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-      },
+      },  
     }),
 };
 
