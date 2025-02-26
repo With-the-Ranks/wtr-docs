@@ -1,5 +1,4 @@
-Texter Training Guide
----------------------
+# Texter Training Guide
 
 [Texter Training 101: Watch this short training video\*](https://drive.google.com/file/d/1JnH1Wx4mVezaxJ2bHc6376-3xG0E1M32/view)
 

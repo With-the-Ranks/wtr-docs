@@ -1,5 +1,4 @@
-Escalate A Conversation
------------------------
+# Escalate A Conversation
 
 Escalating a conversation brings it to the attention of your
 Spoke administrators, allowing them to take appropriate action.

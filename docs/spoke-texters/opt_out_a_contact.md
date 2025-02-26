@@ -1,5 +1,4 @@
-Opt Out A Contact
------------------
+# Opt Out A Contact
 
 Opting out a contact adds them to your organization's opt-out
 list. This prevents you from sending more messages to the

@@ -1,5 +1,4 @@
-Send Texts
-----------
+# Send Texts
 
 After you have [requested](https://docs.spokerewired.com/article/41-request-texts-for-assignment) and received an assignment, you can begin texting contacts.
 

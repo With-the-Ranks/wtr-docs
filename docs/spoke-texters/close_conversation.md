@@ -1,8 +1,4 @@
-With the Ranks
-   
-
-Close Conversation
-------------------
+# Close Conversation
 
 Closing a reply allows you to move onto the next conversation
 without sending a reply to a contact. You can return to

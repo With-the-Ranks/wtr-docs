@@ -10,9 +10,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Spoke Docs',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Spoke Documentation',
+  tagline: 'How to use Spoke for texters and admins',
+  favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
   url: 'https://wtr-docs.pages.dev',
@@ -81,7 +81,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/With-the-Ranks/spoke',
             label: 'GitHub',
             position: 'right',
           },
@@ -94,21 +94,13 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Website',
+                href: 'https://withtheranks.com',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} With the Ranks LLC. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

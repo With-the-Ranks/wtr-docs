@@ -46,3 +46,4 @@ website/i18n/**/*
 
 build/
 .netlify
+node_modules/

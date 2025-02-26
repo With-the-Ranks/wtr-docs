@@ -1,5 +1,4 @@
-Update Texter Profile
----------------------
+# Update Texter Profile
 
 A texter can update their name, email address, and password from
 the user profile page.

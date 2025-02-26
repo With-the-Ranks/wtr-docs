@@ -1,5 +1,4 @@
-Use Canned Response
--------------------
+# Use Canned Response
 
 Canned responses are messages prepared for you by your Spoke
 administrators. You can use these in case a conversation goes

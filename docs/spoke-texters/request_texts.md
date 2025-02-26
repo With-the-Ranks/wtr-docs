@@ -1,5 +1,4 @@
-Request Texts
--------------
+# Request Texts
 
 If you are a
 [texter](https://docs.spokerewired.com/article/6-user-roles), you can request a texting assignment to start having

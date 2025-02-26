@@ -1,5 +1,4 @@
-Reset Your Spoke Rewired Password
----------------------------------
+# Reset Your Spoke Rewired Password
 
 If you've forgotten your password, follow these steps to
 troubleshoot:

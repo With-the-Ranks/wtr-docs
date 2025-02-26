@@ -1,5 +1,4 @@
-Add Tags To A Conversation
---------------------------
+# Add Tags To A Conversation
 
 Adding tags to a conversation allows your Spoke administrators
 to keep informed about your contacts. For example, you can use
