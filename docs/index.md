@@ -7,4 +7,4 @@ sidebar_position: 1
 :iphone: This is the home of Spoke documentation for both Spoke texters and administrators
 
 - [Spoke Texters](/docs/category/spoke-texters)
-- [Spoke Admin](/docs/spoke-admin)
+- [Spoke Admin](/docs/category/spoke-admin)
