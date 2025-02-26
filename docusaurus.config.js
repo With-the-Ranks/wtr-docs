@@ -75,12 +75,6 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Documentation',
-          },
-          {
             href: 'https://github.com/With-the-Ranks/spoke',
             label: 'GitHub',
             position: 'right',
