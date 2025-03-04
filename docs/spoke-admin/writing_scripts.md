@@ -6,7 +6,7 @@ all the information your contacts need to know in as few words
 as possible, while still using language that sounds natural.
 Your scripts should sound like they're coming from real people –
 because they are! You should always
-**include opt out language** like **stop=quit** and if you're sending a link, please consult our article on [short links](https://docs.spokerewired.com/article/70-short-link-domains) to ensure deliverability.
+**include opt out language** like **stop=quit** and if you're sending a link, please consult our article on [short links](https://withtheranks.com/docs/spoke/for-spoke-admins/short-link-domains) to ensure deliverability.
 
 Initial Messages
 ----------------
@@ -22,11 +22,11 @@ an electoral campaign, this is also where you would introduce
 the candidate, as well as the officer they're running for. Here
 are a couple of examples:
 
-*"Hi {firstName}, it's {texterFirstName}
+*"Hi `{firstName}`, it's `{texterFirstName}`
 with the Rebel Alliance."*
 
-*"Hi {firstName}! My name is
-{texterFirstName} and I'm a volunteer with Baby
+*"Hi `{firstName}`! My name is
+`{texterFirstName}` and I'm a volunteer with Baby
 Yoda, who is running for Co**ruscant**City Council."*
 
 For
@@ -35,10 +35,10 @@ introducing the texter and your organization, since the message will
 appear immediate below the first pass in their thread, which already
 contains that information. Here are some examples second pass introductions:
 
-*"Hi {firstName}, just wanted to make sure you saw
+*"Hi `{firstName}`, just wanted to make sure you saw
 our first message!"*
 
-*"Hi {firstName}! Just checking in again to see if
+*"Hi `{firstName}`! Just checking in again to see if
 you can...*
 
 #### Argument
@@ -52,7 +52,7 @@ their campaign is all about, lifting up their core message
 and/or issues. Here are some example arguments, building off our
 introductions:
 
-*"Hi {firstName}, it's {texterFirstName}
+*"Hi `{firstName}`, it's `{texterFirstName}`
 with the Rebel Alliance. For decades, Imperial bankers and
 traders have made billions of credits, while ordinary
 workers have struggled to make ends meet. That's why we're
@@ -60,8 +60,8 @@ organizing a galactic livestream on wealth and income
 inequality and what you can do to fight back this Friday,
 March 26th at 8pm CT."*
 
-*"Hi {firstName}! My name is
-{texterFirstName} and I'm a volunteer with Baby
+*"Hi `{firstName}`! My name is
+`{texterFirstName}` and I'm a volunteer with Baby
 Yoda, who is running for Co**ruscant**City Council. Baby Yoda has spent his entire career
 standing up to the Imperial elite and fighting for ordinary
 working people across the galaxy. He's running to make
@@ -75,7 +75,7 @@ Your ask should correspond with the survey question in your
 Interactions script. Here are some example asks, building off
 our arguments:
 
-*"Hi {firstName}, it's {texterFirstName}
+*"Hi `{firstName}`, it's `{texterFirstName}`
 with the Rebel Alliance. For decades, Imperial bankers and
 traders have made billions, while ordinary workers have
 struggled to make ends meet. That's why we're organizing a
@@ -83,8 +83,8 @@ galactic livestream on wealth and income inequality and what
 you can do to fight back this Friday, March 26th at 8pm CT.
 Can you join us?"*
 
-*"Hi {firstName}! My name is
-{texterFirstName} and I'm a volunteer with Baby
+*"Hi `{firstName}`! My name is
+`{texterFirstName}` and I'm a volunteer with Baby
 Yoda, who is running for Co**ruscant**City Council. Baby Yoda has spent his entire career
 standing up to the Imperial elite and fighting for ordinary
 working people across the galaxy. He's running to make
@@ -179,6 +179,6 @@ records. Take good care!"*
 Ultimately, there are as many possible scripts as there are
 campaigns! If you'd like support crafting a campaign script,
 please reach out at
-**[[email protected]](/cdn-cgi/l/email-protection)**
+**[support@withtheranks.com](mailto:support@withtheranks.com)**
 
  

@@ -1,13 +1,13 @@
 # Request Texts
 
 If you are a
-[texter](https://docs.spokerewired.com/article/6-user-roles), you can request a texting assignment to start having
+[texter](https://withtheranks.com/docs/spoke/for-spoke-admins/user-roles), you can request a texting assignment to start having
 conversations with contacts. These could be volunteers,
 supporters, voters – it depends on the campaign!
 
 ##### *To request a texting assignment:*
 
-1. Open the texter [dashboard](https://docs.spokerewired.com/article/52-dashboards).
+1. Open the texter [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards).
 2. In the **Count** field, specify the number of conversations
    you want to be assigned to you. If there are no unassigned conversations,
    a message will be displayed.

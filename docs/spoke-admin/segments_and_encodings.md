@@ -53,7 +53,7 @@ page, you will be emailed two links to download your data
 exports. The second of these is your *messages export*,
 where you can find a breakdown of the number of segments on a
 particular campaign. For a more robust segment breakdown, please
-email [[email protected]](/cdn-cgi/l/email-protection).
+email [support@withtheranks.com](mailto:support@withtheranks.com).
 
 ### How is MMS different?
 

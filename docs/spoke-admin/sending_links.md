@@ -21,6 +21,6 @@ bit.ly or tinyurl.com).
 
 4. If you're planning to send the same link to large numbers of
 contacts, consider using script options and custom domains to
-rotate your links. You can read more about this feature [here](https://docs.spokerewired.com/article/70-short-link-domains).
+rotate your links. You can read more about this feature [here](https://withtheranks.com/docs/spoke/for-spoke-admins/short-link-domains).
 
  

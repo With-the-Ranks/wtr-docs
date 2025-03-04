@@ -2,13 +2,13 @@
 
 You can copy an existing campaign as a way to create a new
 campaign with the same or a similar
-[interaction script](https://docs.spokerewired.com/article/38-interaction-scripts). This is often the faster and easier way to create a new
+[interaction script](https://withtheranks.com/docs/spoke/for-spoke-admins/interaction-scripts). This is often the faster and easier way to create a new
 campaign.
 
 ##### *To copy a campaign:*
 
 1. Select the campaign you wish to copy from the
-**Campaigns** page of the administration [dashboard](https://docs.spokerewired.com/article/52-dashboards).
+**Campaigns** page of the administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards).
 
 2. Click the 
 **Copy Campaign**button. You should see a pop-up

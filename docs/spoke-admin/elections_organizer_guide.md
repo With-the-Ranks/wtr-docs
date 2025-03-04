@@ -35,10 +35,9 @@ DIGITAL TOOLS
 ### Spoke
 
 This guide will describe how to set up a peer-to-peer texting
-program using Spoke Rewired, which we believe offers the most
+program using Spoke, which we believe offers the most
 powerful set of features at the lowest
-price ($0.01/segment) of any tool on the market. Spoke
-Rewired is a highly scaleable, dynamic and easy-to-use tool for
+price ($0.01/segment) of any tool on the market. Spoke is a highly scaleable, dynamic and easy-to-use tool for
 admins and texters.
 
 ### Slack
@@ -76,11 +75,11 @@ accomplish their work in an entirely online and remote setting.
 This section will cover the admin infrastructure you’ll need in
 place before you launch your texting program.
 
-### Sign up for Spoke Rewired
+### Sign up for Spoke
 
-If you don't yet have a Spoke Rewired account, you can sign up
+If you don't yet have a Spoke account, you can sign up
 for one
-[here](https://politicsrewired.com/signup/). You
+[here](https://withtheranks.com). You
 should hear back and be granted access to your new account in a
 matter of days.
 
@@ -113,7 +112,7 @@ candidate, summarizes their most central message, and asks for
 support. You should send your draft script to campaign
 leadership for feedback and approval well in advance of
 launching your texting program. You can request a sample Voter
-ID script outline at [[email protected]](/cdn-cgi/l/email-protection)
+ID script outline at [support@withtheranks.com](mailto:support@withtheranks.com)
 
 ### Create Campaign Tracker
 
@@ -125,7 +124,7 @@ see all your texting campaigns, their number and current status,
 who built them, and any notes left by the builder. It will also
 provide a checklist for proofing campaigns. You can view a
 request a campaign tracker template at
-[[email protected]](/cdn-cgi/l/email-protection)
+[support@withtheranks.com](mailto:support@withtheranks.com)
 
 ### Sign up for Rebrandly
 
@@ -159,7 +158,7 @@ coordinate with your team on Slack. Ideally, all volunteer
 texters should attend a live online training that reviews the
 training slides, though a pre-recorded video covering the slides
 can also be used. You can request a template for your
-training slides at [[email protected]](/cdn-cgi/l/email-protection)
+training slides at [support@withtheranks.com](mailto:support@withtheranks.com)
 
 ### Team FAQ
 
@@ -174,7 +173,7 @@ from both texters and voters. It should cover biographical and
 political summaries of the candidate, as well as succinct
 descriptions of their position on the most important and
 controversial issues of the race. You can request a
-template for your Team FAQ at [[email protected]](/cdn-cgi/l/email-protection)
+template for your Team FAQ at [support@withtheranks.com](mailto:support@withtheranks.com)
 
 ### Slack Workspace
 
@@ -288,7 +287,7 @@ build and manage campaigns in Spoke, but it’s crucial that you
 take a systematic approach in order to avoid errors and ensure
 consistency between campaigns created by different admins. For a
 detailed step-by-step guide to campaign building, go
-[here](https://docs.spokerewired.com/article/34-build-a-campaign).
+[here](https://withtheranks.com/docs/spoke/for-spoke-admins/build-a-campaign).
 
 ### Scripting Initial Messages
 
@@ -304,9 +303,9 @@ The ask makes a direct request of the textee, including any
 logistical details (e.g., date/time) they may need to give an
 informed answer. For more details about how to write effective
 scripts and for example scripts, please
-[read this article](https://docs.spokerewired.com/article/120-writing-scripts).
+[read this article](https://withtheranks.com/docs/spoke/for-spoke-admins/writing-scripts).
 
 *To learn more about managing campaigns and administering
-Spoke, please browse our [Knowledge Base](https://docs.spokerewired.com/).*
+Spoke, please browse our [Knowledge Base](https://withtheranks.com/docs/).*
 
  

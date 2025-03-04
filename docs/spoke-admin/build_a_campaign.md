@@ -1,14 +1,14 @@
 # Build A Campaign
 
-Building a [campaign](https://docs.spokerewired.com/article/25-campaigns) lets you reach out to your contacts in a systematic and scripted
+Building a [campaign](https://withtheranks.com/docs/spoke/for-spoke-admins/campaigns) lets you reach out to your contacts in a systematic and scripted
 way. Spoke administrators and owners are able to create campaigns
-from the Spoke administration [dashboard](https://docs.spokerewired.com/article/52-dashboards).
+from the Spoke administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards).
 
 After you create and start a campaign, you can continue editing
 all information **with the exception of the contact list.** You must set up your VAN integration before creating a new
 campaign - for more information, see VAN Integration & List
 Loading. (link) To "add" contacts to a campaign,
-duplicate the campaign by selecting [Copy Campaign](https://docs.spokerewired.com/article/112-copy-a-campaign) from the individual campaign page and load new contacts into the
+duplicate the campaign by selecting [Copy Campaign](https://withtheranks.com/docs/spoke/for-spoke-admins/copy-a-campaign) from the individual campaign page and load new contacts into the
 duplicate campaign.
 
   
@@ -38,7 +38,7 @@ efficient option.
 
   
 
-For more information about copying campaigns, see [Copy a Campaign](https://docs.spokerewired.com/article/112-copy-a-campaign).
+For more information about copying campaigns, see [Copy a Campaign](https://withtheranks.com/docs/spoke/for-spoke-admins/copy-a-campaign).
 
   
 
@@ -49,7 +49,7 @@ for the following fields:
 
 * **Title** — required — This title will be visible
   to texters and will be used for email notifications and for naming
-  export files. Campaign titles can be useful for the [bulk script editor](https://docs.spokerewired.com/article/69-bulk-script-editor) or for your own analyses and record keeping, so you should
+  export files. Campaign titles can be useful for the [bulk script editor](https://withtheranks.com/docs/spoke/for-spoke-admins/bulk-script-editor) or for your own analyses and record keeping, so you should
   group similar campaigns according to a carefully considered naming
   convention.
 * **Description** — required — This field can be
@@ -95,7 +95,7 @@ allowable texting hours.
 
   
 
-For more information, see [Texting Hours](https://docs.spokerewired.com/article/48-texting-hours).
+For more information, see [Texting Hours](https://withtheranks.com/docs/spoke/for-spoke-admins/texting-hours).
 
   
 
@@ -130,13 +130,13 @@ From the **Contacts**window, perform the following steps:
   
 
 For more information and images about uploading your CSV
-contacts list file, see [Contact Lists](https://docs.spokerewired.com/article/64-contact-lists).
+contacts list file, see [Contact Lists](https://withtheranks.com/docs/spoke/for-spoke-admins/contact-lists).
 
 **To Import a list from VAN:**
 
 (You must already have your VAN integration set up. To do
 this, see
- [VAN Integration & List Loading](https://docs.spokerewired.com/article/93-van-list-loading).)
+ [VAN Integration & List Loading](https://withtheranks.com/docs/spoke/for-spoke-admins/van-list-loading).)
 
 For VAN lists, you cannot filter out contacts that are also in
 another campaign.
@@ -180,7 +180,7 @@ other campaigns, those campaigns are listed in the **Contact Overlap Management*
 
   
 
-For more information, see [Contact Overlap Management](https://docs.spokerewired.com/article/46-contact-overlap-management).
+For more information, see [Contact Overlap Management](https://withtheranks.com/docs/spoke/for-spoke-admins/contact-overlap-management).
 
   
 
@@ -199,7 +199,7 @@ Add teams to the campaign from the **Teams** window:
 
   
 
-For more information about creating a team, see [Create a Team](https://docs.spokerewired.com/article/49-create-a-team).
+For more information about creating a team, see [Create a Team](https://withtheranks.com/docs/spoke/for-spoke-admins/create-a-team).
 
 When you are finished, click the ***SAVE AND GOTO NEXT SECTION*** button.
 
@@ -207,7 +207,7 @@ When you are finished, click the ***SAVE AND GOTO NEXT SECTION*** button.
 
 ### Step 8: Optional — Set the assignment options for texters
 
-Assignment is best done through [auto-assignment](https://docs.spokerewired.com/article/111-auto-assignment) (see Step 10) or through manual assignment within Message Review.
+Assignment is best done through [auto-assignment](https://withtheranks.com/docs/spoke/for-spoke-admins/auto-assignment) (see Step 10) or through manual assignment within Message Review.
 However, you have the option to manually assign a number of contacts
 to an individual texter while building the campaign. To do so:
 
@@ -224,7 +224,7 @@ When you are finished, click the ***SAVE AND GOTO NEXT SECTION*** button.
 
 ### Step 9: Create an interaction script for your texters
 
-To create an interaction script, follow the instructions in [Create an Interaction Script](https://docs.spokerewired.com/article/43-create-interaction-script).
+To create an interaction script, follow the instructions in [Create an Interaction Script](https://withtheranks.com/docs/spoke/for-spoke-admins/create-interaction-script).
 
 When you are finished, click the ***SAVE AND GOTO NEXT SECTION*** button.
 
@@ -246,7 +246,7 @@ To add a canned response:
 
   
 
-For more information, see [Canned Responses](https://docs.spokerewired.com/article/47-canned-responses).
+For more information, see [Canned Responses](https://withtheranks.com/docs/spoke/for-spoke-admins/canned-responses).
 
 When you are finished, click the ***SAVE AND GOTO NEXT SECTION*** button.
 
@@ -268,7 +268,7 @@ To turn on auto-assignment:
 
   
 
-For more information, see [Auto-Assignment](https://docs.spokerewired.com/article/111-auto-assignment).
+For more information, see [Auto-Assignment](https://withtheranks.com/docs/spoke/for-spoke-admins/auto-assignment).
 
 When you are finished, click the ***SAVE AND GOTO NEXT SECTION*** button.
 

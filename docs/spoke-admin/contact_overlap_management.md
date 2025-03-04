@@ -1,6 +1,6 @@
 # Contact Overlap Management
 
-When you [upload a contact list](https://docs.spokerewired.com/article/64-contact-lists) to a new campaign, Spoke automatically detects overlapping contacts
+When you [upload a contact list](https://withtheranks.com/docs/spoke/for-spoke-admins/contact-lists) to a new campaign, Spoke automatically detects overlapping contacts
 with previous campaigns. **Contact Overlap Management** allows you to review and delete these overlapping contacts so that
 you can avoid interrupting existing conversations and not over-text
 your contacts. Typically, it's best to delete overlapping contacts

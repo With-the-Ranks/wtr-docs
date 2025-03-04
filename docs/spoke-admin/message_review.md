@@ -1,6 +1,6 @@
 # Message Review
 
-The Message Review page of your administration [dashboard](https://docs.spokerewired.com/article/52-dashboards) allows you to filter through your organization's conversations,
+The Message Review page of your administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards) allows you to filter through your organization's conversations,
 as well as reassign or unassign conversations that you've selected.
 
 Message Filter
@@ -72,7 +72,7 @@ use to filter conversations.
     initial message has been sent but the contact has
     not replied.
   + *Closed*– Conversations where the texter has
-    selected [Close](https://docs.spokerewired.com/article/80-skip-a-reply), effectively closing the conversation.
+    selected [Close](https://withtheranks.com/docs/spoke/for-spoke-texters/close-conversation/), effectively closing the conversation.
 * **Campaign:**filter conversations by campaign
   name or ID number. This is often the first step when
   searching for specific conversations.
@@ -114,7 +114,7 @@ workflow.
 
 Unassigning conversations removes them from their current
 texter's workflow and places them in the pool of texts available
-for assignment via the [request form](https://docs.spokerewired.com/article/110-request-form).
+for assignment via the [request form](https://withtheranks.com/docs/spoke/for-spoke-admins/request-form).
 
 ##### *To unassign conversations:*
 

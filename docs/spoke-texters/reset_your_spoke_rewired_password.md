@@ -1,9 +1,9 @@
-# Reset Your Spoke Rewired Password
+# Reset Your Spoke Password
 
 If you've forgotten your password, follow these steps to
 troubleshoot:
 
-1. Navigate to your Spoke Rewired webpage and click "Login and
+1. Navigate to your Spoke webpage and click "Login and
    get started." ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/634eee524d805871ceaa46b5/file-GlzZZEaNEe.png)
 2. From this page, click where the text reads "Forgot your
    password?" under the LOG IN button. ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/634eee9ede258f5018eb56b8/file-q0TwDfajuU.png)
@@ -20,7 +20,7 @@ email address. This is a common error. Search for
 "support@withtheranks.com" in all of your email addresses to
 identify the email with an active spoke account.
 
-If you find messages from Spoke Rewired in another email
+If you find messages from Spoke in another email
 address, navigate to your Spoke webpage and restart the above
 process with the correct email address. Once you have opened the
 password reset link and have access to spoke, you can change

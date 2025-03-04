@@ -18,7 +18,7 @@ message with the bracketed URL removed.
 
 **Example:**
 
-Hey {firstName}, this is {texterFirstName} with ORGANIZATION. URGENT
+Hey `{firstName}`, this is `{texterFirstName}` with ORGANIZATION. URGENT
 FACT. That is why we are organizing to X. Will you stand in
 solidarity and sign our pledge to Y?
 **[https://i.imgur.com/d2DkMaZ.jpeg]**

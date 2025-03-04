@@ -3,7 +3,7 @@
 The following settings apply to all campaigns in your Spoke
 organization. You can access these **Settings** from
 the administrator
-[dashboard](https://docs.spokerewired.com/article/52-dashboards).
+[dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards).
 
 Default Text Request Auto-Approval Level
 ----------------------------------------
@@ -26,7 +26,7 @@ Texting Hours
 -------------
 
 You can enforce
-[texting hours](https://docs.spokerewired.com/article/48-texting-hours) across all campaigns by turning on this feature. This prevents
+[texting hours](https://withtheranks.com/docs/spoke/for-spoke-admins/texting-hours) across all campaigns by turning on this feature. This prevents
 you from disturbing contacts outside of these hours. Each campaign
 has its own set of texting hours that you specify on the campaign
 settings page.

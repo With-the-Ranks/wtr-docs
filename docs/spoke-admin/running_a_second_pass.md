@@ -35,16 +35,16 @@ page, replace your initial message with second pass language. Best
 practices when crafting a second pass initial include removing *{}*texterFirstName** and both shortening and reiterating your previous
 message.   
    
-For example, for an initial message that read *"Hi {firstName}, it's {texterFirstName}
+For example, for an initial message that read *"Hi `{firstName}`, it's `{texterFirstName}`
 with CANDIDATE! Election Day is one week away and it's all
 hands on deck to get CANDIDATE elected. Will you join us for
 a phonebank on DAY at TIME and help us reach every voter in
-DISTRICT?"*you may consider a second pass like, *"Hi {firstName}, just wanted to make sure you saw
+DISTRICT?"*you may consider a second pass like, *"Hi `{firstName}`, just wanted to make sure you saw
 our first message! Can you join Team CANDIDATE for a
 phonebank on DAY at TIME?"*
 
 3. From the **Campaigns** page of the administration
-[dashboard](https://docs.spokerewired.com/article/52-dashboards), select the three dots to the right of the campaign name.
+[dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards), select the three dots to the right of the campaign name.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/5f47fae42c7d3a352e91743f/file-x3j10E3Oxt.png)
 

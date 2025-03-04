@@ -1,7 +1,7 @@
 # Copy Block
 
 When you're
-[creating an interaction script](https://docs.spokerewired.com/article/43-create-interaction-script) for your campaign, you can easily copy and paste script blocks
+[creating an interaction script](https://withtheranks.com/docs/spoke/for-spoke-admins/create-interaction-script) for your campaign, you can easily copy and paste script blocks
 within or between campaigns. This can be helpful if you want to add
 generic survey scripts you already have written elsewhere (e.g.,
 Wrong Number) or if you're building multiple complex survey trees
@@ -45,7 +45,7 @@ appear immediately below the survey question.
 > script with that of another campaign, first click **Copy Block**on the initial message of the campaign you want to
 > copy, then select****+ Paste Block**within the initial message
 > script block of the campaign you want to replace. You may
-> also want to consider simply* [making a copy](https://docs.spokerewired.com/article/112-copy-a-campaign) *of the campaign you wish to replicate.*
+> also want to consider simply* [making a copy](https://withtheranks.com/docs/spoke/for-spoke-admins/copy-a-campaign) *of the campaign you wish to replicate.*
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/604be6d1c44f5d025f443a16/file-HlNKU0Ye6O.png)![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/604be740207e3b1188e1bbb3/file-rIpR8C5IaN.png)
 

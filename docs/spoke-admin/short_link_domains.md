@@ -32,7 +32,7 @@ improving deliverability.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/6324b9611ec1962d58a80219/file-TWi5qCgDn4.jpg)
 
-*For more information, contact [[email protected]](/cdn-cgi/l/email-protection).*
+*For more information, contact [support@withtheranks.com](mailto:support@withtheranks.com).*
 
 ### Setting up Rotating Short Link Domains in Spoke
 
@@ -41,10 +41,10 @@ Spoke feature, but we can enable this feature if your
 organization is texting out 50,000-100,000 messages per
 day with links and is running into deliverability
 issues.****If you think this would be a good solution for your use
-case, please email [[email protected]](/cdn-cgi/l/email-protection)*
+case, please email [support@withtheranks.com](mailto:support@withtheranks.com)*
 
 You can add to a list of short link domains from the
-administration [dashboard](https://docs.spokerewired.com/article/52-dashboards). When a texter sends a message that includes a shortened link,
+administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards). When a texter sends a message that includes a shortened link,
 Spoke uses this list to automatically detect and replace the
 short link's domain with another domain in the list. Spoke
 cycles through the domains in this list to spread out usage of
@@ -62,6 +62,6 @@ domains will not be replaced.
 
 > **Note:** If you don't set up short links outside of
 > the platform, the links you send out will not work as expected. If
-> you have questions or concerns, contact [[email protected]](/cdn-cgi/l/email-protection).
+> you have questions or concerns, contact [support@withtheranks.com](mailto:support@withtheranks.com).
 
  

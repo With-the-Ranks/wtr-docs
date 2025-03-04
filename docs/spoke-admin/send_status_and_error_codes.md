@@ -15,7 +15,7 @@ message was **not delivered** to the recipient's phone.
 Most commonly, this occurs when the recipient's carrier rejects the
 message as part of their spam filter. This often happens when your
 message has included links or URLs. To read about methods of increasing
-deliverability of links, see [here](https://docs.spokerewired.com/article/113-sending-links) and [here](https://docs.spokerewired.com/article/70-short-link-domains).
+deliverability of links, see [here](https://withtheranks.com/docs/spoke/for-spoke-admins/sending-links) and [here](https://withtheranks.com/docs/spoke/for-spoke-admins/short-link-domains).
 
 You may also see an ERROR send status for a contact who has
 replied "STOP" or "UNSUBSCRIBE" in the past. Don't worry —

@@ -4,7 +4,7 @@ Setting up your VAN integration
 -------------------------------
 
 Using the version (or
-*fork*) of Spoke specific to Politics Rewired, you are
+*fork*) of Spoke specific to With the Ranks, you are
 able to load **saved lists****from VAN** directly into texting campaigns. This is done through a [VAN integration](https://help.ngpvan.com/van/s/article/2969508-requesting-and-approving-api-keys).
 
 Set up VAN for Spoke integration
@@ -13,7 +13,7 @@ Set up VAN for Spoke integration
 1. You will need the application name and API key from
 VAN.
 
-**Accepted:** Politics Rewired-,
+**Accepted:** With the Ranks-,
 Hustle-, or Civis-type VAN API keys.
 
 **Not Accepted:** Spoke- type
@@ -223,6 +223,6 @@ responses in the script.
 2. Provide responses to the question by clicking **Add a Response**
 
 Learn more about
-[writing responses to surveys here](https://docs.spokerewired.com/article/43-create-interaction-script).
+[writing responses to surveys here](https://withtheranks.com/docs/spoke/for-spoke-admins/create-interaction-script).
 
  

@@ -11,7 +11,7 @@ Manual Assignment
 Administrators can manually assign texts to individual texters
 from either the **Texters**window of the campaign
 settings page or from the **Message Review** page off
-of the administration [dashboard](https://docs.spokerewired.com/article/52-dashboards). Depending on how many texters you are managing with manual
+of the administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards). Depending on how many texters you are managing with manual
 assignment, this can be a very time-intensive process. We
 typically recommend using auto-assignment, unless you have a
 special case that requires manual assignment.
@@ -19,13 +19,13 @@ special case that requires manual assignment.
 Auto-Assignment
 ---------------
 
-[Auto-assignment](https://docs.spokerewired.com/article/111-auto-assignment) allows texters to request a preset number of conversations (either
-initial messages or unhandled replies) from the [request form](https://docs.spokerewired.com/article/110-request-form) on the texter [dashboard](https://docs.spokerewired.com/article/52-dashboards).
+[Auto-assignment](https://withtheranks.com/docs/spoke/for-spoke-admins/auto-assignment) allows texters to request a preset number of conversations (either
+initial messages or unhandled replies) from the [request form](https://withtheranks.com/docs/spoke/for-spoke-admins/request-form) on the texter [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards).
 
 Auto-assignment can be set up two different ways:
 
 1. **Approval Required:**Where each assignment
-   request must be manually approved by an Administrator or [Supervolunteer](https://docs.spokerewired.com/article/6-user-roles) in order for texters to receive their texts.
+   request must be manually approved by an Administrator or [Supervolunteer](https://withtheranks.com/docs/spoke/for-spoke-admins/user-roles) in order for texters to receive their texts.
 2. **Auto Approve:**Where requested assignments
    are automatically approved, allowing texters to start
    texting contacts within moments of submitting their request.
@@ -43,6 +43,6 @@ of the administration dashboard.
 Once you've set the default setting for auto-assignment, you can
 enable autoassign for specific campaigns within the **Autoassign Mode** window of the campaign settings page. You can then
 release texting assignments from those campaigns to your texters
-via the [request form](https://docs.spokerewired.com/article/110-request-form), using the [**Assignment Control**](https://docs.spokerewired.com/article/66-manage-assignment-control) page of the administration dashboard.
+via the [request form](https://withtheranks.com/docs/spoke/for-spoke-admins/request-form), using the [**Assignment Control**](https://withtheranks.com/docs/spoke/for-spoke-admins/manage-assignment-control) page of the administration dashboard.
 
  

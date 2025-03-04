@@ -6,7 +6,7 @@ and message of your campaign.
 #### *To create an interaction script:*
 
 1. Select your campaign from the **Campaign** page of
-the administration [dashboard](https://docs.spokerewired.com/article/52-dashboards).
+the administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards).
 
 2. Select the **Interactions**window from the
 campaign settings page.
@@ -17,7 +17,7 @@ campaign contacts:
 * Click the **Script Version 1**field.
 * Enter an initial message; use dynamic script as appropriate,
   for example, you may want to begin with something like, "Hi
-  { firstName }, it's {texterFirstName}
+  `{firstName}`, it's `{texterFirstName}`
   with..." As of 2022, you will need to include opt out
   language like "**Reply STOP to opt out**" at
   the end of your message to ensure deliverability.
@@ -57,7 +57,7 @@ nested under those questions as well.
 > Note #1: When building campaigns with multiple survey questions,
 > make sure you are adding responses under the appropriate
 > question. You can use
-> [Script Preview](https://docs.spokerewired.com/article/114-script-preview) to double-check your work and easily view your question and response
+> [Script Preview](https://withtheranks.com/docs/spoke/for-spoke-admins/script-preview) to double-check your work and easily view your question and response
 > trees.
 
 > *Note #2: You are able to write multiple versions of any
@@ -68,7 +68,7 @@ nested under those questions as well.
 
 > *Note # 3: When writing a script, you can see the
 > estimated number of segments per text message, as well* *as the number of characters left in the current segment.
-> This can help you estimate the* [cost](https://politicsrewired.com/pricing/) *of your campaign.*
+> This can help you estimate the* [cost](https://withtheranks.com/pricing/) *of your campaign.*
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/601c9996a4cefb30ae5c7a48/file-A5QXqh1cqv.png)
 

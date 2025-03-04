@@ -20,7 +20,7 @@ this in mind when writing interaction scripts.
 If you leave the **"...****with this text"** field blank, the bulk script editor replaces all instances of the
 text with nothing, effectively deleting them.
 
-The bulk script editor works only for a single Spoke [organization](https://docs.spokerewired.com/article/79-organizations). If you have multiple organizations, you must use the bulk
+The bulk script editor works only for a single Spoke [organization](https://withtheranks.com/docs/spoke/for-spoke-admins/organizations). If you have multiple organizations, you must use the bulk
 script editor for each one.
 
 > Note: Clicking the

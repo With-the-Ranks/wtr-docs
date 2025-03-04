@@ -3,7 +3,7 @@
 Brand and Campaign Registration Guide
 =====================================
 
-Spoke Rewired fully supports sending messages with 10DLC. To
+Spoke fully supports sending messages with 10DLC. To
 take advantage of our lowest prices and improved deliverability,
 you should register your Spoke organization for a 10DLC brand.
 
@@ -12,7 +12,7 @@ process and offer registration and ongoing 10DLC enrollment at
 no additional cost.
 
 You can find the registration link in the Admin section of your
-Spoke Rewired instance. Navigate to Settings and click Register
+Spoke instance. Navigate to Settings and click Register
 under the heading "10DLC Registration Information.”
 
 Guide Summary
@@ -21,14 +21,14 @@ Guide Summary
 There are two parts to completing 10DLC registration. The first
 part is for 527 political organizations only (e.g., campaign or
 PAC) and the second part is for all organizations including
-527s. If you are not a 527 political organization you can [skip to 10DLC registration.](#10DLC-Registration-dQyXs)
+527s. If you are not a 527 political organization you can [skip to 10DLC registration.](#10dlc-registration-in-spoke)
 
-* [Campaign Verify Registration](#Campaign-Verify-Registration-GO_24)
+* [Campaign Verify Registration](#campaign-verify-registration)
   + 527 political organizations only
-* [10DLC Registration in Spoke](#10DLC-Registration-dQyXs)
+* [10DLC Registration in Spoke](#10dlc-registration-in-spoke)
   + For all organizations including 527s
 
-Campaign Verify Registration
+### Campaign Verify Registration
 ----------------------------
 
 Verification for 527 political organizations (e.g., campaign or
@@ -54,14 +54,14 @@ using a new Campaign Verify Token. As per Campaign Verify:
    continue by following the steps below to register for 10DLC
    in your Spoke instance.
 
-10DLC Registration in Spoke
+### 10DLC Registration in Spoke
 ---------------------------
 
 All organizations including 527 political organizations must
 fill out this form to finish 10DLC registration. ***Note: Only users with the Owner role will be able to
 complete registration.***
 
-1. From your [administration dashboard](https://docs.spokerewired.com/article/52-dashboards), navigate to "Settings" in the left menu
+1. From your [administration dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards), navigate to "Settings" in the left menu
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/64879f041211660f0912d895/file-SFrHMa99fl.png)
 
@@ -70,8 +70,8 @@ complete registration.***
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/6487a1335fc2fe6b6dc5fcd8/file-4UrQH5f5YK.png)
 
-3. Fill out the 10DLC registration form for Rewired LLC and
-   submit. Email us at [[email protected]](/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3e3fcfffae7faf0e0e1f6e4fae1f6f7bdf0fcfe) with any questions.
+3. Fill out the 10DLC registration form for With the Ranks LLC and
+   submit. Email us at [support@withtheranks.com](mailto:support@withtheranks.com) with any questions.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/6487a1da7f8c2575e3544c18/file-PK4h6HfuNf.png)
 
@@ -79,7 +79,7 @@ complete registration.***
    October 1st, 2021 may need to sign the newest contract if
    they have not already. We will email your account owner the
    new contract. The updated service agreement covers 10DLC
-   changes, including [10DLC Pricing and Compliance](https://docs.spokerewired.com/article/129-10dlc-pricing). We will not register a [brand](https://docs.spokerewired.com/article/131-10dlc-glossary) or campaign on your behalf until the updated service agreement
+   changes, including [10DLC Pricing and Compliance](https://docs.spokerewired.com/article/129-10dlc-pricing). We will not register a [brand](https://withtheranks.com/docs/spoke/for-spoke-admins/10dlc-glossary) or campaign on your behalf until the updated service agreement
    has been signed and we have the required brand registration information.
 
 We anticipate a 3-5 business day delay between completing the

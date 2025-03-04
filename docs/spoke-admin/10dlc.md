@@ -11,7 +11,7 @@ like Spoke to send text messages.
 We are committed to supporting you throughout the registration
 process, and offer registration and ongoing 10DLC enrollment at
 no additional cost. Contact us at any time at
-[[email protected]](/cdn-cgi/l/email-protection#a6d5d3d6d6c9d4d2e6d1cfd2ced2cec3d4c7c8cdd588c5c9cb)
+[support@withtheranks.com](mailto:support@withtheranks.com)
 
 ### History and background
 

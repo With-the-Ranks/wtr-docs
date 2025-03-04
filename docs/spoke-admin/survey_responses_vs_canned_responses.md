@@ -11,7 +11,7 @@ data and a frustrating experience for your texters.
 
 Survey Responses constitute the core building blocks of your
 campaigns. Creating survey responses in your
-[Interaction Script](https://docs.spokerewired.com/article/43-create-interaction-script) allows your texters to select a from a menu of survey responses
+[Interaction Script](https://withtheranks.com/docs/spoke/for-spoke-admins/create-interaction-script) allows your texters to select a from a menu of survey responses
 while in a texting conversation, each with it's own prepared script.
 Once the survey response is selected and sent, the texter is also
 simultaneously logging data about how that contact responded. In
@@ -28,7 +28,7 @@ different survey responses. Similarly, if you're gauging support
 for a candidate using a 1-5 Voter ID score, then you should have
 five different survey responses, one for each level of support
 (see example survey response scripts
-[here](https://docs.spokerewired.com/article/120-writing-scripts)). Note that in addition to generating useful scripts for your
+[here](https://withtheranks.com/docs/spoke/for-spoke-admins/writing-scripts)). Note that in addition to generating useful scripts for your
 texters, it would be critical to capture the data on how
 contacts answered these questions.
 
@@ -46,7 +46,7 @@ important information, but it wouldn't typically be important to
 log data indicating that they asked the question.
 
 * Where did you get my information?
-* What is {organization_name}?
+* What is `{organization_name}`?
 * How do I check if I'm registered to vote?
 * Where is my polling place?
 

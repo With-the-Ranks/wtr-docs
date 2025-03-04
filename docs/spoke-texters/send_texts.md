@@ -1,13 +1,13 @@
 # Send Texts
 
-After you have [requested](https://docs.spokerewired.com/article/41-request-texts-for-assignment) and received an assignment, you can begin texting contacts.
+After you have [requested](https://withtheranks.com/docs/spoke/for-spoke-texters/request-texts) and received an assignment, you can begin texting contacts.
 
 Sending Initial Messages
 ------------------------
 
 ##### *To send your initial messages:*
 
-1. Open the texter [dashboard](https://docs.spokerewired.com/article/52-dashboards).
+1. Open the texter [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards).
 2. Click **Send First Texts**.
 3. Click **Send**until you run out of initial
    messages.  
@@ -27,7 +27,7 @@ Sending Replies
 
 ##### *To send replies to contacts who have responded to an initial message:*
 
-1. Open the texter [dashboard](https://docs.spokerewired.com/article/52-dashboards).
+1. Open the texter [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards).
 2. Click **Send Replies**.
 3. Answer the survey question by clicking below **Current Question** and selecting a survey option. This will automatically populate
    a prepared response.

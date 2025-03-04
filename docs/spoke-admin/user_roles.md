@@ -5,14 +5,14 @@ Types of Roles
 
 Spoke has four roles, each with different levels of permissions.
 You can access and edit these roles from the
-**People** page of the administration [dashboard](https://docs.spokerewired.com/article/52-dashboards).
+**People** page of the administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards).
 
 ### Texter
 
 A
  *texter* is a member of your organization, often a volunteer,
 who is able to text contacts in a campaign. Texters use the texter
-[dashboard](https://docs.spokerewired.com/article/52-dashboards) to request conversation assignments and send messages.
+[dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards) to request conversation assignments and send messages.
 
 Texters are responsible for sending initial messages and
 responses to contacts, as well as answering survey questions as
@@ -42,7 +42,7 @@ and text contacts.
 ### Owner
 
 An
-*owner* has full access to the [organization](https://docs.spokerewired.com/article/79-organizations) and may manage organization settings, shortlink domains, and
+*owner* has full access to the [organization](https://withtheranks.com/docs/spoke/for-spoke-admins/organizations) and may manage organization settings, shortlink domains, and
 bulk operations. They have full access to the administration
 dashboard. Owner accounts have the same ability as texters
 to request conversations and text contacts.

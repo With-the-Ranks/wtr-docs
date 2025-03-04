@@ -1,14 +1,14 @@
 # Manage Assignment Control
 
 The **Assignment Control** page on the administration
-dashboard allows you to manage the [request form](https://docs.spokerewired.com/article/110-request-form) that distributes texting [assignments](https://docs.spokerewired.com/article/33-text-assignment) to you texters. Assignment controls can be applied to all of your
+dashboard allows you to manage the [request form](https://withtheranks.com/docs/spoke/for-spoke-admins/request-form) that distributes texting [assignments](https://withtheranks.com/docs/spoke/for-spoke-admins/text-assignment) to you texters. Assignment controls can be applied to all of your
 texters via the "General" designation, or to specific teams of texters.
 
 There are three primary assignment controls:
 
 **1. Enable Assignment:**Toggling the "Enable
 assignment?" switch will make assignments available to texters
-via the request form from any active campaigns that have [autoassign](https://docs.spokerewired.com/article/110-request-form) enabled.
+via the request form from any active campaigns that have [autoassign](https://withtheranks.com/docs/spoke/for-spoke-admins/request-form) enabled.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/5fca9443eb7cc612aa3550b2/file-WvTtjrLqjX.png)**2. Assignment Type:**This allows you to choose whether you want to release
 unsent initial messages or unhandled replies to the request

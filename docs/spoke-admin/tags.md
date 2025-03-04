@@ -21,7 +21,7 @@ enabling you to follow up and recruit them later.
 ##### *To create a tag:*
 
 1. Navigate to the **Tags**page page of the
-   administration [dashboard](https://docs.spokerewired.com/article/52-dashboards).
+   administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards).
 2. Click the green **plus (+)** button in the
    bottom right-hand corner.
 3. Choose a **tag title**.
@@ -34,7 +34,7 @@ enabling you to follow up and recruit them later.
 
 You can also create a custom escalation tag that not only logs
 data but removes the conversation from a texter's workflow, and
-makes it uniquely available to a specialized [team](https://docs.spokerewired.com/article/49-create-a-team) for assignment. To do this, just un-check **Allow assignment**when creating your tag.
+makes it uniquely available to a specialized [team](https://withtheranks.com/docs/spoke/for-spoke-admins/create-a-team) for assignment. To do this, just un-check **Allow assignment**when creating your tag.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/601dafc81f25b9041bebc15e/file-3jd35mrmiS.png)
 

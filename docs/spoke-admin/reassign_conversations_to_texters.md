@@ -40,7 +40,7 @@ From the Escalated Convos page
 ------------------------------
 
 From the
-**Escalated Convos** page of the administration [dashboard](https://docs.spokerewired.com/article/52-dashboards), you can manually reassign (or unassign) escalated
+**Escalated Convos** page of the administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards), you can manually reassign (or unassign) escalated
 conversations to texters who can handle the conversation.
 
 To reassign an escalated conversation:
@@ -69,7 +69,7 @@ From the Campaigns page
 -----------------------
 
 From the
-**Campaigns** page of the administration [dashboard](https://docs.spokerewired.com/article/52-dashboards), you can perform two [campaign actions](https://docs.spokerewired.com/article/59-campaign-actions) to release conversations.
+**Campaigns** page of the administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards), you can perform two [campaign actions](https://withtheranks.com/docs/spoke/for-spoke-admins/campaign-actions) to release conversations.
 
 #### Release Unsent Messages
 

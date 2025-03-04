@@ -1,6 +1,6 @@
 # Spoke 101 Tips For A Successful Mass Text
 
-If you need help getting started, click [here](https://docs.spokerewired.com/article/34-build-a-campaign) to read about how to build a campaign. Once you have created a
+If you need help getting started, click [here](https://withtheranks.com/docs/spoke/for-spoke-admins/build-a-campaign) to read about how to build a campaign. Once you have created a
 draft campaign, check to make sure your campaign meets the following
 characteristics to make sure your messages are delivered and not
 filtered as spam.
@@ -20,12 +20,12 @@ your audience?
 * **Use short-links.** Commonly used short
   links (e.g., bit.ly, tinyurl.com, etc.) as well as commonly
   used link domains (e.g., ActBlue) are OFTEN blocked as spam.
-  We recommend using a custom domain on [Rebrandly](https://www.rebrandly.com/). See our full article [here](https://docs.spokerewired.com/article/70-short-link-domains) for more info.
+  We recommend using a custom domain on [Rebrandly](https://www.rebrandly.com/). See our full article [here](https://withtheranks.com/docs/spoke/for-spoke-admins/short-link-domains) for more info.
 * **Introduce yourself.**Greet the textee and
   identify who you are and from what organization you're
   texting. This could look like "Hey
-  {firstName}, { texterFirstName } here
-  with Politics Rewired!"
+  `{firstName}`, `{texterFirstName}` here
+  with With the Ranks!"
 * **End your message with opt out language.** 'Reply
   STOP to quit' is a safe bet. We also like (STOP to End).
   This is crucial for deliverability.

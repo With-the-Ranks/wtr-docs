@@ -18,6 +18,6 @@ edit interactions scripts.
    replies
 
 If a conversation departs from the interaction script, you can
-provide [canned responses](https://docs.spokerewired.com/article/47-canned-responses) that texters use to handle the situation on a case-by-case basis.
+provide [canned responses](https://withtheranks.com/docs/spoke/for-spoke-admins/canned-responses) that texters use to handle the situation on a case-by-case basis.
 
  

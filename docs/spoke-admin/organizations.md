@@ -2,8 +2,7 @@
 
 An
 **organizatio****n** is a distinct sending
-identity within your Spoke instance. Each instance of Spoke
-Rewired can have multiple organizations.
+identity within your Spoke instance. Each instance of Spoke can have multiple organizations.
 
 Organizations can be useful if your texting goals are different
 enough to keep separate. For example, there may be overlap
@@ -18,7 +17,7 @@ conversations distinct threads.
 
 Each organization is defined by a number, which is visible in
 the URL of both
-[dashboards](https://docs.spokerewired.com/article/52-dashboards).
+[dashboards](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards).
 
 ##### *Each organization has a separate:*
 
@@ -27,7 +26,7 @@ the URL of both
 
 > \*Note: If you wish to have instance-wide, rather than
 > organization-wide, opt outs, please contact
-> [[email protected]](/cdn-cgi/l/email-protection).
+> [support@withtheranks.com](mailto:support@withtheranks.com).
 
 #### User Permissions Across Organizations
 
@@ -36,7 +35,7 @@ Any user designated as a
 organizations as an **Owner.** This can be useful if
 you plan to manage many organizations on a shared Spoke instance.
 Superadmin status must be managed directly in the database. Please
-contact [[email protected]](/cdn-cgi/l/email-protection) if this is something you'd like
+contact [support@withtheranks.com](mailto:support@withtheranks.com) if this is something you'd like
 to set up.
 
  

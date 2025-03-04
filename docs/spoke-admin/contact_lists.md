@@ -2,12 +2,12 @@
 
 Every campaign requires a contact list, which provides the full
 set of people you wish to contact with that campaign. If loading
-contacts via a file rather than a [VAN integration](https://docs.spokerewired.com/article/93-van-list-loading), you must provide the contact list in a **comma separated values (CSV) format**.
+contacts via a file rather than a [VAN integration](https://withtheranks.com/docs/spoke/for-spoke-admins/van-list-loading), you must provide the contact list in a **comma separated values (CSV) format**.
 
 Once uploaded to the campaign, Spoke maintains an internal
 version of the list and modifies it as the campaign progresses.
 You can export the modified contact list for your own record
-keeping. For more information, see [Export Data from a Campaign](https://docs.spokerewired.com/article/71-export-data-from-a-campaign).
+keeping. For more information, see [Export Data from a Campaign](https://withtheranks.com/docs/spoke/for-spoke-admins/export-data-from-a-campaign).
 
 **CSV Files**
 -------------
@@ -39,7 +39,7 @@ placeholders for unknown names: "friend" and
 #### **Custom Fields**
 
 You have the option to include additional custom fields in the
-contact list. You can use these fields in the campaign's [interaction script](https://docs.spokerewired.com/article/38-interaction-scripts). Just as with the **firstName** field, these values will dynamically
+contact list. You can use these fields in the campaign's [interaction script](https://withtheranks.com/docs/spoke/for-spoke-admins/interaction-scripts). Just as with the **firstName** field, these values will dynamically
 populate in your script for each contact. An example of this is
 polling_location, where each contact may have their specific
 polling location appended.
@@ -125,6 +125,6 @@ used to filter out contacts. You can enter multiple campaign
 names at once. **This step must be done before loading the CSV.**
 
 You can also achieve the same function of eliminating overlap
-with previous campaigns by using [Contact Overlap Management](https://docs.spokerewired.com/article/46-contact-overlap-management).
+with previous campaigns by using [Contact Overlap Management](https://withtheranks.com/docs/spoke/for-spoke-admins/contact-overlap-management).
 
  

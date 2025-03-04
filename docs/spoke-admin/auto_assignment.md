@@ -34,7 +34,7 @@ the [request form](https://withtheranks.com/docs/spoke/for-spoke-admins/request-
 **3. Set Up** **Auto-Approval:** Click **Settings** on the administration dashboard, then select **Auto Approve** beneath "Default Text Request Auto-Approval Level." This will make
 it so that when texters request an assignment via the request form,
 that assignment is automatically approved in a matter of seconds.
-If you wish to have administrators or [Supervolunteers](https://docs.spokerewired.com/article/6-user-roles) manually approve requests, you can set this option to
+If you wish to have administrators or [Supervolunteers](hhttps://withtheranks.com/docs/spoke/for-spoke-admins/user-roles) manually approve requests, you can set this option to
 **Approval Required**. We recommend using Auto
 Approve in most cases.
 
@@ -44,7 +44,7 @@ Approve in most cases.
 > approved. However, changing the default setting does not change the
 > auto-approval level of texters already in your organization. You
 > can change this setting on an individual basis by going to the
-> **People** window within the administration [dashboard](https://docs.spokerewired.com/article/52-dashboards).
+> **People** window within the administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards).
 
 ![The "Default Text Request Auto-Approval Level" setting is in the General settings section which is marked by a gear symbol.](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/5fc6a179d580ce55a38b3410/file-jKIfkJUxR2.png)
 

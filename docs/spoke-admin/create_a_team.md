@@ -8,7 +8,7 @@ for persuasion texting campaigns.
 
 ##### *To create a team:*
 
-1. From the administration [dashboard](https://docs.spokerewired.com/article/52-dashboards), navigate to the **Teams**page.
+1. From the administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards), navigate to the **Teams**page.
 2. Click the green **plus (+)**button
    in the bottom right-hand corner.
 3. Enter a team name.

@@ -1,6 +1,6 @@
 # Texting Hours
 
-Texting hours restrict when [texters](https://docs.spokerewired.com/article/6-user-roles) can send messages to contacts. Using texting hours minimizes the
+Texting hours restrict when [texters](https://withtheranks.com/docs/spoke/for-spoke-admins/user-roles) can send messages to contacts. Using texting hours minimizes the
 chance of disturbing someone at inappropriate hours of the day. Spoke's
 default texting hours have been chosen to comply with regulations
 regarding consumer telephone contact. **We do not recommend extending these hours** and you do so at your own risk.

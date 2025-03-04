@@ -1,8 +1,8 @@
 # Campaign Actions
 
-You can manage active [campaigns](https://docs.spokerewired.com/article/25-campaigns) with campaign actions. The following actions are available for
+You can manage active [campaigns](https://withtheranks.com/docs/spoke/for-spoke-admins/campaigns) with campaign actions. The following actions are available for
 each campaign as viewed on the **Campaigns**page of
-the administration [dashboard](https://docs.spokerewired.com/article/52-dashboards). You can access these options by clicking the three vertical
+the administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards). You can access these options by clicking the three vertical
 dots to the right of each campaign.
 
 ### 
@@ -13,7 +13,7 @@ dots to the right of each campaign.
 
 Texters may not all always send out all the initial messages
 assigned to them. When that happens, you can select  **Release Unsent Messages***,*which will make all previously stranded initial
-messages available for assignment to other texters via the [request form](https://docs.spokerewired.com/article/110-request-form).
+messages available for assignment to other texters via the [request form](https://withtheranks.com/docs/spoke/for-spoke-admins/request-form).
 
 #### Mark For Second Pass
 
@@ -23,13 +23,13 @@ This action is useful for following up with contacts who didn't
 see the initial message or who forgot to reply. If you use this
 action, you should also change the script's initial message so
 that texters don't send the exact same message twice. For
-example, you could start the new initial message with, *"Hey {firstName}, just wanted to make sure you
+example, you could start the new initial message with, *"Hey `{firstName}`, just wanted to make sure you
 saw our first message..."*
 
 When you use this action, a notification displays the number of
 conversations that are marked for a second pass. After marking
 for a pass, you'll need to **Release Unsent Messages**in order to make them available for assignment via the
-request form. [Click here](https://docs.spokerewired.com/article/101-running-a-second-pass) to learn more about running a second pass.
+request form. [Click here](https://withtheranks.com/docs/spoke/for-spoke-admins/running-a-second-pass) to learn more about running a second pass.
 
 > Note: You can only mark for a second pass before the due date of
 > a campaign.
@@ -81,9 +81,9 @@ auto-assignment to handle replies.
 
 #### Turn auto-assign ON/OFF
 
-##### Makes campaign conversations eligible or ineligible for automatic [assignment](https://docs.spokerewired.com/article/33-text-assignment) to texters via the [request form](https://docs.spokerewired.com/article/110-request-form).
+##### Makes campaign conversations eligible or ineligible for automatic [assignment](https://withtheranks.com/docs/spoke/for-spoke-admins/text-assignment) to texters via the [request form](https://withtheranks.com/docs/spoke/for-spoke-admins/request-form).
 
-This is a shortcut action to toggle auto-assignment on or off, [just as you would](https://docs.spokerewired.com/article/110-request-form) from the campaign settings page.
+This is a shortcut action to toggle auto-assignment on or off, [just as you would](https://withtheranks.com/docs/spoke/for-spoke-admins/request-form) from the campaign settings page.
 
 #####
 

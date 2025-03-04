@@ -1,7 +1,7 @@
 # Campaigns
 
 Campaigns are the central feature of Spoke. They provide the
-structure and tools for [texters](https://docs.spokerewired.com/article/6-user-roles) to engage in conversations with your contacts.
+structure and tools for [texters](https://withtheranks.com/docs/spoke/for-spoke-admins/user-roles) to engage in conversations with your contacts.
 
 Each campaign has a contact list and an interaction script. When you start a campaign, contacts are assigned to texters,
 who can then initiate a conversation using the interaction
@@ -17,6 +17,6 @@ You can run multiple campaigns simultaneously to reach different
 contacts about different things.
 
 If you are a Spoke administrator, you can manage campaigns from
-the administration [dashboard](https://docs.spokerewired.com/article/52-dashboards).
+the administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards).
 
  

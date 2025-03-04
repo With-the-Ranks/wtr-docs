@@ -5,7 +5,7 @@
 \*Training contains older versions of Spoke, see screenshots below for
 the newest version
 
-This training will teach you to navigate Spoke Rewired, our peer-to-peer
+This training will teach you to navigate Spoke, our peer-to-peer
 text messaging tool. Spoke is a powerful web-based texting platform that
 allows you to do rapid outreach to mobilize your members, turn out
 voters, build your base, and more.
@@ -38,7 +38,7 @@ you should do the following:
 2. Create your account. Your texting leaders will send you a link that
    will invite you to your texting workspace. Once your account setup is
    complete, you will either see a text request form or a message
-   indicating that no texts are available. If you see *Ready to text?*and the green [*Request More Texts* button](https://docs.spokerewired.com/article/41-request-texts), you can request your first assignment!Your texting
+   indicating that no texts are available. If you see *Ready to text?*and the green [*Request More Texts* button](https://withtheranks.com/docs/spoke/for-spoke-texters/request-texts), you can request your first assignment!Your texting
    leaders have set the maximum amount of texts you can request per
    batch; feel free to start smaller while you are getting to know the
    system, but know that batch sizes smaller than 300 are unlikely to
@@ -48,7 +48,7 @@ you should do the following:
    conversation screen. The green bubble indicates the number of texts
    you’ve been assigned.![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/5f46cdeb042863444aa0e370/file-BZCsHF3M5d.png)
 4. From the conversation screen, the initial text is provided for you.
-   You will not be able to edit this first message. [Send messages](https://docs.spokerewired.com/article/36-send-texts) by clicking the *SEND* button in the lower left or by tapping
+   You will not be able to edit this first message. [Send messages](https://withtheranks.com/docs/spoke/for-spoke-texters/send-texts) by clicking the *SEND* button in the lower left or by tapping
    the enter key on your keyboard. We recommend sending all of your initial
    messages before fielding your replies!
 
@@ -56,7 +56,7 @@ you should do the following:
 
 ### RESPONDING TO REPLIES
 
-After sending your first assignment, you can begin [responding to contacts' replies](https://docs.spokerewired.com/article/36-send-texts). Recipients will respond over time, sometimes hours or even days later
+After sending your first assignment, you can begin [responding to contacts' replies](https://withtheranks.com/docs/spoke/for-spoke-texters/send-texts). Recipients will respond over time, sometimes hours or even days later
 — Aim to check your workflow for replies a few times throughout
 the day to ensure everyone who responds to your initial text receives a
 reply from you.
@@ -97,7 +97,7 @@ Adelaide, but I love CANDIDATE! They have my vote!"
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/62f4000b829a3853b69257fb/file-yKxsQOVPZx.png)
 
 If a contact clearly and explicitly asks to no longer receive texts, you
-must immediately [opt them out](https://docs.spokerewired.com/article/73-opt-out-a-contact).
+must immediately [opt them out](https://withtheranks.com/docs/spoke/for-spoke-texters/opt-out-a-contact/).
 
 **Common opt-out responses:**
 
@@ -126,7 +126,7 @@ and highly recommended to send the *unsubscribed* notification.
 Sometimes the contact asks a question rather than directly responding to
 the initial message. If possible, mark the survey response accurately
 but tailor the message to address their question. To find suggested
-replies to common questions, check [the CANNED RESPONSES section](https://docs.spokerewired.com/article/74-use-canned-response) to the right of the *OPT OUT* button.
+replies to common questions, check [the CANNED RESPONSES section](https://withtheranks.com/docs/spoke/for-spoke-texters/use-canned-response/) to the right of the *OPT OUT* button.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/62f4043e80fd5a31e7ad106e/file-pO5AutvG4b.png)
 
@@ -139,7 +139,7 @@ reiterate the initial ask.
 
 ### APPLYING TAGS
 
-In addition to survey responses, data can also be captured through the [application of tags](https://docs.spokerewired.com/article/58-add-tags-to-a-conversation).
+In addition to survey responses, data can also be captured through the [application of tags](https://withtheranks.com/docs/spoke/for-spoke-texters/add-tags-to-a-conversation/).
 
 Tags are commonly used to:
 
@@ -163,7 +163,7 @@ When the tag appears, select it and click *SAVE*.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/62f4178c61ff5d5f24f9ac9b/file-6xNFCR7pIT.png)
 
-From the *MANAGE TAGS* section, you also have the option to [escalate a conversation](https://docs.spokerewired.com/article/81-escalate-a-conversation) directly to your texting leaders. This button should be used with
+From the *MANAGE TAGS* section, you also have the option to [escalate a conversation](https://withtheranks.com/docs/spoke/for-spoke-texters/escalate-a-conversation/) directly to your texting leaders. This button should be used with
 care and according to your team's specific instructions. Texting programs
 often use this button to transfer messages directly to administrators because
 they contain:
@@ -181,7 +181,7 @@ they contain:
 
 ### NAVIGATING CONVERSATIONS
 
-If a voter sends a message that doesn’t require a response, you [can simply select CLOSE](https://docs.spokerewired.com/article/80-close-conversation)*,*next to the *MANAGE TAGS* button. This
+If a voter sends a message that doesn’t require a response, you [can simply select CLOSE](https://withtheranks.com/docs/spoke/for-spoke-texters/close-conversation/)*,*next to the *MANAGE TAGS* button. This
 essentially marks the message as “read” and will move it out of your *SEND REPLIES* section and into your *SKIPPED MESSAGES*.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/62f4192f80fd5a31e7ad1112/file-hVwqa6Ywu9.png)

@@ -4,7 +4,7 @@ Adding tags to a conversation allows your Spoke administrators
 to keep informed about your contacts. For example, you can use
 tags to indicate your contact's primary language, or you can use
 tags to
-[escalate a conversation](https://docs.spokerewired.com/article/81-escalate-a-conversation). For information on how you should be using tags, contact your
+[escalate a conversation](https://withtheranks.com/docs/spoke/for-spoke-texters/escalate-a-conversation/). For information on how you should be using tags, contact your
 Spoke administrators.
 
 ##### *To add a tag to a conversation:*

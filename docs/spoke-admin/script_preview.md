@@ -1,6 +1,6 @@
 # Script Preview
 
-Script preview allows you to see a campaign's [interaction script](https://docs.spokerewired.com/article/38-interaction-scripts) and [canned responses](https://docs.spokerewired.com/article/47-canned-responses) in a clean and organized format. This can be helpful to have open
+Script preview allows you to see a campaign's [interaction script](https://withtheranks.com/docs/spoke/for-spoke-admins/interaction-scripts) and [canned responses](https://withtheranks.com/docs/spoke/for-spoke-admins/canned-responses) in a clean and organized format. This can be helpful to have open
 on a separate tab as you build your campaigns, if you need to share
 your campaign with another team member to get feedback or approval
 on a script, or if you want to give your texters a more holistic
@@ -9,7 +9,7 @@ view of the campaign they're working on.
 ##### *To access the script preview for a campaign:*
 
 1. Select the campaign from the **Campaigns**page
-of theadministration [dashboard](https://docs.spokerewired.com/article/52-dashboards).
+of theadministration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards).
 
 2. Click **Open Script Preview**. This will
 automatically open the preview in a new tab in your browser.

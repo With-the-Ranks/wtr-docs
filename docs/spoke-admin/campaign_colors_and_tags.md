@@ -1,6 +1,6 @@
 # Campaign Colors And Tags
 
-The campaign list on the administration [dashboard](https://docs.spokerewired.com/article/52-dashboards) uses colors and tags to help you keep track of your active campaigns.
+The campaign list on the administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards) uses colors and tags to help you keep track of your active campaigns.
 The colors and tags are automatically applied to the campaigns based
 on their state.
 
