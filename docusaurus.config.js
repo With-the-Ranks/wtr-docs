@@ -76,11 +76,11 @@ const config = {
   
       },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/meta.jpg',
       navbar: {
         title: 'Spoke Docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'With the Ranks Logo',
           src: 'img/logo.svg',
         },
         items: [
