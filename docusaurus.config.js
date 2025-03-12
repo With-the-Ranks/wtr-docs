@@ -76,7 +76,7 @@ const config = {
   
       },
       // Replace with your project's social card
-      image: 'img/meta.jpg',
+      image: 'img/meta.png',
       navbar: {
         title: 'Spoke Docs',
         logo: {
