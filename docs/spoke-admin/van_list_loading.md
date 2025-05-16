@@ -13,7 +13,7 @@ Set up VAN for Spoke integration
 1. You will need the application name and API key from
 VAN.
 
-**Accepted:** With the Ranks-,
+**Accepted:** Politics Rewired-,
 Hustle-, or Civis-type VAN API keys.
 
 **Not Accepted:** Spoke- type
