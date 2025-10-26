@@ -1,7 +1,5 @@
 # Running A Second Pass
 
-[Second Pass 101: Watch this short demonstration video.](https://drive.google.com/file/d/1r7TgIOLTZWTMkUsF-KCy7-nCuAyqYeQ-/view)
-
 Running a **second pass** is a great way to politely bump your initial message to
 non-responsive contacts. Done well, second passes see high
 response rates, save you time, and maintain the integrity of
