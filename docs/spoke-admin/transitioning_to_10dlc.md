@@ -3,17 +3,9 @@
 Brand and Campaign Registration Guide
 =====================================
 
-Spoke fully supports sending messages with 10DLC. To
-take advantage of our lowest prices and improved deliverability,
-you should register your Spoke organization for a 10DLC brand.
-
-We are committed to supporting you throughout the registration
-process and offer registration and ongoing 10DLC enrollment at
-no additional cost.
-
-You can find the registration link in the Admin section of your
-Spoke instance. Navigate to Settings and click Register
-under the heading "10DLC Registration Information.”
+Spoke fully supports sending messages with 10DLC. We are committed 
+to supporting you throughout the registration process and offer registration 
+and ongoing 10DLC enrollment at no additional cost.
 
 Guide Summary
 -------------
@@ -38,8 +30,8 @@ registered before November 15th, 2022, will need to resubmit
 using a new Campaign Verify Token. As per Campaign Verify:
 
 > Authorization Tokens for verification requests submitted on
-> November 15, 2022 and later will be valid until January 31,
-> 2025.
+> November 15, 2024 and later will be valid until January 31,
+> 2027.
 
 **Steps to register a 527 political organization:**
 
@@ -58,43 +50,8 @@ using a new Campaign Verify Token. As per Campaign Verify:
 ---------------------------
 
 All organizations including 527 political organizations must
-fill out this form to finish 10DLC registration. ***Note: Only users with the Owner role will be able to
-complete registration.***
-
-1. From your [administration dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards), navigate to "Settings" in the left menu
-
-![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/64879f041211660f0912d895/file-SFrHMa99fl.png)
-
-2. From the Settings page, click the "Register"
-   button.
-
-![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/6487a1335fc2fe6b6dc5fcd8/file-4UrQH5f5YK.png)
-
-3. Fill out the 10DLC registration form for With the Ranks LLC and
-   submit. Email us at [support@withtheranks.com](mailto:support@withtheranks.com) with any questions.
-
-![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/6487a1da7f8c2575e3544c18/file-PK4h6HfuNf.png)
-
-4. Note: Customers that signed up for our service before
-   October 1st, 2021 may need to sign the newest contract if
-   they have not already. We will email your account owner the
-   new contract. The updated service agreement covers 10DLC
-   changes, including [10DLC Pricing and Compliance](https://docs.spokerewired.com/article/129-10dlc-pricing). We will not register a [brand](https://withtheranks.com/docs/spoke/for-spoke-admins/10dlc-glossary) or campaign on your behalf until the updated service agreement
-   has been signed and we have the required brand registration information.
-
-We anticipate a 3-5 business day delay between completing the
-registration and your brand being capable of sending messages.
-
-  
-
-### Message Limitations for Sole Proprietorships
-
-Mobile carriers limit message volume if you are a sole
-proprietor or have no legal entity. There is a max of 1,000
-outbound SMS segments and MMS daily to T-Mobile (messages
-exceeding this limit will fail).
-
-  
+fill out this form to start the 10DLC registration process.
+https://airtable.com/appA9pGNHcIppcVjh/pagPemnDI4B5wvLQ3/form
 
 ### Private Company Third-Party Vetting
 
@@ -136,5 +93,3 @@ Authority may be eligible for this special use case.
 501(c)(4), 501(c)(5), and 501(c)(6) organizations sending
 messages that are political in nature should also register with
 the Political special use case.
-
- 
