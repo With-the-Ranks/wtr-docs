@@ -13,11 +13,11 @@ Guide Summary
 There are two parts to completing 10DLC registration. The first
 part is for 527 political organizations only (e.g., campaign or
 PAC) and the second part is for all organizations including
-527s. If you are not a 527 political organization you can [go to the 10DLC section in the Spoke Onboarding Hub.](hub.spokewtr.com)
+527s. If you are not a 527 political organization you can [go to the 10DLC section in the Spoke Onboarding Hub.](https://hub.spokewtr.com)
 
 * [Campaign Verify Registration](#campaign-verify-registration)
   + 527 political organizations only
-* [10DLC Registration in Spoke Onboarding Hub](hub.spokewtr.com)
+* [10DLC Registration in Spoke Onboarding Hub](https://hub.spokewtr.com)
   + For all organizations including 527s
 
 ### Campaign Verify Registration
