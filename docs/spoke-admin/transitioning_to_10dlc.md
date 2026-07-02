@@ -13,11 +13,11 @@ Guide Summary
 There are two parts to completing 10DLC registration. The first
 part is for 527 political organizations only (e.g., campaign or
 PAC) and the second part is for all organizations including
-527s. If you are not a 527 political organization you can [skip to 10DLC registration.](#10dlc-registration-in-spoke)
+527s. If you are not a 527 political organization you can [go to the 10DLC section in the Spoke Onboarding Hub.](hub.spokewtr.com)
 
 * [Campaign Verify Registration](#campaign-verify-registration)
   + 527 political organizations only
-* [10DLC Registration in Spoke](#10dlc-registration-in-spoke)
+* [10DLC Registration in Spoke Onboarding Hub](hub.spokewtr.com)
   + For all organizations including 527s
 
 ### Campaign Verify Registration
@@ -42,21 +42,7 @@ using a new Campaign Verify Token. As per Campaign Verify:
 
 2. Receive an Authorization Token from Campaign Verify.
    * Example token:`cv|1.0|tcr|10dlc|00000000-0000-4000-0000-000000000000|abca1b2c3d4e5f6g7h8i9j0_0000000000000000000`
-3. Once you receive the Campaign Verify Authorization Token,
-   continue by following the steps below to register for 10DLC
-   in your Spoke instance.
-
-### 10DLC Registration in Spoke
----------------------------
-
-All organizations including 527 political organizations must
-fill out this form to start the 10DLC registration process.
-https://airtable.com/appA9pGNHcIppcVjh/pagPemnDI4B5wvLQ3/form
-
-### Private Company Third-Party Vetting
-
-Private companies have the option to go with third-party
-commercial vetting to improve their message throughput.
+3. Enter this token in the 10DLC section in the Spoke Onboarding Hub.
 
 Campaign Information
 ====================
@@ -79,8 +65,6 @@ cases.
 ### Charity Special Use Case
 
 Verification of 501(c)(3) status is required.
-
-  
 
 ### Political Special Use Case
 

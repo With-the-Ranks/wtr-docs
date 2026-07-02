@@ -6,11 +6,11 @@ text messages. The 10DLC scheme requires organizations to register
 with cell phone carriers and describe their usage before using software
 like Spoke to send text messages.
 
-**Please see [Adopting 10DLC](https://withtheranks.com/docs/spoke/for-spoke-admins/transitioning-to-10dlc) to start the registration process.**
+**Please navigate to the 10DLC tab in the [Spoke Onboarding Hub](hub.spokewtr.com) to start the registration process.**
 
 We are committed to supporting you throughout the registration
 process, and offer registration and ongoing 10DLC enrollment at
-no additional cost. Contact us at any time at
+no additional cost. Contact us at any time with questions at
 [support@withtheranks.com](mailto:support@withtheranks.com)
 
 ### History and background
