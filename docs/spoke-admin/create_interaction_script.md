@@ -8,13 +8,13 @@ and message of your campaign.
 1. Select your campaign from the **Campaign** page of
 the administration [dashboard](https://withtheranks.com/docs/spoke/for-spoke-admins/dashboards).
 
-2. Select the **Interactions**window from the
+2. Select the **Interactions** window from the
 campaign settings page.
 
 3. Write an initial message that will be sent to all of your
 campaign contacts:
 
-* Click the **Script Version 1**field.
+* Click the **Script Version 1** field.
 * Enter an initial message; use dynamic script as appropriate,
   for example, you may want to begin with something like, "Hi
   `{firstName}`, it's `{texterFirstName}`
@@ -31,8 +31,8 @@ campaign contacts:
 4. Create survey responses for your texters to navigate their
 conversations:
 
-* Click the **Add a Response**button.
-* Click the **Answer**field and write an answer
+* Click the **Add a Response** button.
+* Click the **Answer** field and write an answer
   to your previous survey question. Texters will be able to
   select this survey answer to log data and access the
   prepared response script. Only texters see the survey answer
@@ -43,7 +43,7 @@ conversations:
 * Click **Done**.
 * If you include an additional question in your survey
   response script, you can add a new survey question by
-  clicking the **Question**field and writing a new question.
+  clicking the **Question** field and writing a new question.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/601c8b0f1f25b9041bebbb5e/file-zmUrlcXvrX.png)
 
