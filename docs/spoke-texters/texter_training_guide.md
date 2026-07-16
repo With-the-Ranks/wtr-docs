@@ -1,10 +1,5 @@
 # Texter Training Guide
 
-[Texter Training 101: Watch this short training video\*](https://drive.google.com/file/d/1JnH1Wx4mVezaxJ2bHc6376-3xG0E1M32/view)
-
-\*Training contains older versions of Spoke, see screenshots below for
-the newest version
-
 This training will teach you to navigate Spoke, our peer-to-peer
 text messaging tool. Spoke is a powerful web-based texting platform that
 allows you to do rapid outreach to mobilize your members, turn out
@@ -64,7 +59,7 @@ reply from you.
 1. As replies come into your workflow, you’ll see a *SEND REPLIES* button appear. The number in the orange bubble indicates the
    number of replies that need your attention. Unless you need to reopen
    a conversation that has already taken place, feel free to disregard
-   the *PAST MESSAGES* or *SKIPPED MESSAGES*section.
+   the *PAST MESSAGES* or *SKIPPED MESSAGES* section.
    Any messages in the *SEND LATER* bucket will reopen when
    it reaches 9am in those contacts' local time zone.   
       
@@ -73,7 +68,7 @@ reply from you.
    you will not be able to respond to contacts until texting hours reopen.
    Inbound replies from your contacts will appear the next morning. 
    ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/5f4918192c7d3a352e917fb7/file-6IcsLsHrWf.png)
-2. After clicking the *SEND REPLIES*button, you’ll see the first
+2. After clicking the *SEND REPLIES* button, you’ll see the first
    reply in your queue. See the following section for instructions on
    marking the survey according to contacts' responses. ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/62f3fb0b61ff5d5f24f9abc5/file-qet697zecs.png)
 
@@ -117,7 +112,7 @@ be removed.
 To opt a contact out, use the orange *OPT OUT* button at the
 bottom of your screen. An *unsubscribed* message will pre-populate;
 click send to complete the opt out. To opt a contact out without sending
-a message, delete the prepopulated response and hit *Opt out without sending message.*This is recommended if the contact responds with something like, "I
+a message, delete the prepopulated response and hit *Opt out without sending message.* This is recommended if the contact responds with something like, "I
 better not receive one more message from you!" but it is best practice
 and highly recommended to send the *unsubscribed* notification.
 
@@ -181,14 +176,14 @@ they contain:
 
 ### NAVIGATING CONVERSATIONS
 
-If a voter sends a message that doesn’t require a response, you [can simply select CLOSE](https://withtheranks.com/docs/spoke/for-spoke-texters/close-conversation/)*,*next to the *MANAGE TAGS* button. This
+If a voter sends a message that doesn’t require a response, you [can simply select CLOSE](https://withtheranks.com/docs/spoke/for-spoke-texters/close-conversation/) next to the *MANAGE TAGS* button. This
 essentially marks the message as “read” and will move it out of your *SEND REPLIES* section and into your *SKIPPED MESSAGES*.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5d4878eb2c7d3a330e3c1b86/images/62f4192f80fd5a31e7ad1112/file-hVwqa6Ywu9.png)
 
 To leave a reply "unread" so you can come back to it later, you should
 instead use the NEXT **>** button on the
-bottom right of your screen. Unlike the *CLOSE*button,
+bottom right of your screen. Unlike the *CLOSE* button,
 this will allow you to continue working on other replies and easily
 come back to an unanswered conversation.
 
@@ -207,9 +202,6 @@ messages, ask yourself: “What would it look like if my text conversation
 went viral?”
 
 ### ENGAGEMENT BEST PRACTICES
-
-|
-|  |
 
 Almost every text list will put you in touch with non-supporters or even
 trolls who use offensive language to try to bait you into saying
@@ -241,13 +233,13 @@ on my phone?
 **Q**: Will using Spoke on my phone share my personal phone
 number with the contacts I’m texting?
 
-> **A:**No. Spoke is a web-based program that assigns an
+> **A:** No. Spoke is a web-based program that assigns an
 > anonymous phone number for each of our campaigns, so your personal
 > number is always private.
 
 **Q**: What does it mean when I see a gray box with *SEND LATER* in Spoke?
 
-> **A:**Spoke enforces sending during 9am-9pm local time. If
+> **A:** Spoke enforces sending during 9am-9pm local time. If
 > it's outside of these hours for the person you're attempting to contact,
 > you won't be able to send them a message.
 
